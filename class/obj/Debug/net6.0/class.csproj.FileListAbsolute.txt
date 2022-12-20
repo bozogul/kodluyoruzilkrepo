@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\class\bin\Debug\net6.0\class.exe
+Y:\c#\pratikler\console-programlama\class\bin\Debug\net6.0\class.deps.json
+Y:\c#\pratikler\console-programlama\class\bin\Debug\net6.0\class.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\class\bin\Debug\net6.0\class.dll
+Y:\c#\pratikler\console-programlama\class\bin\Debug\net6.0\class.pdb
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.dll
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\refint\class.dll
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.pdb
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\class.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\class\obj\Debug\net6.0\ref\class.dll

@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\math-datetime\bin\Debug\net6.0\math-datetime.exe
+Y:\c#\pratikler\console-programlama\math-datetime\bin\Debug\net6.0\math-datetime.deps.json
+Y:\c#\pratikler\console-programlama\math-datetime\bin\Debug\net6.0\math-datetime.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\math-datetime\bin\Debug\net6.0\math-datetime.dll
+Y:\c#\pratikler\console-programlama\math-datetime\bin\Debug\net6.0\math-datetime.pdb
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.dll
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\refint\math-datetime.dll
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.pdb
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\math-datetime.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\math-datetime\obj\Debug\net6.0\ref\math-datetime.dll
