@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\switch-case\bin\Debug\net6.0\switch-case.exe
+Y:\c#\pratikler\console-programlama\switch-case\bin\Debug\net6.0\switch-case.deps.json
+Y:\c#\pratikler\console-programlama\switch-case\bin\Debug\net6.0\switch-case.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\switch-case\bin\Debug\net6.0\switch-case.dll
+Y:\c#\pratikler\console-programlama\switch-case\bin\Debug\net6.0\switch-case.pdb
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.dll
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\refint\switch-case.dll
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.pdb
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\switch-case.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\switch-case\obj\Debug\net6.0\ref\switch-case.dll
