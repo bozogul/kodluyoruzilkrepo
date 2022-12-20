@@ -1,0 +1,30 @@
+Interface isimlerinin I ile başlaması, bir kod yazım kuralıdır ve bu kurala uymamanın bir zorunluluğu yoktur. Ancak, I ile başlaması bir alışkanlık haline gelmiştir ve birçok yazılım geliştiricisi bu kuralı takip eder. Bu kuralın takip edilmesinin nedeni, bir interface'in bir sınıftan farklı bir şey olduğunu belirtmek ve kod okunabilirliğini artırmaktır. Örneğin, bir sınıf Customer olsa da bir interface ICustomer olarak adlandırılır.
+
+Ancak, bu kurala uymamanın bir sakıncası yoktur. Eğer bir interface ismini I ile başlatmak istemezseniz, isim verirken dikkatli olmanız gerekiyor. Örneğin, bir interface Shape olarak adlandırılsaydı, bu sınıf adı ile çakışabilir ve kod okunabilirliğini azaltabilirdi. Bu nedenle, interface isimlerinin I ile başlaması bir kod yazım kuralı olarak kabul edilir ve takip edilmesi tavsiye edilir.
+
+
+
+
+Batuhan Özoğul
+[22,27,16,2,18,6] -> Insertion Sort
+
+Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
+Big-O gösterimini yazınız.
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+
+Average case: Aradığımız sayının ortada olması
+Worst case: Aradığımız sayının sonda olması
+Best case: Aradığımız sayının dizinin en başında olması.
+Insertion sort, diziyi sıralarken bir elemanı bir önceki elemanlardan bir tanesine kadar kaydırarak yerleştirme işlemi yapar. Bu işlemi tekrarlayarak dizi sıralanır. Örneğin, verilen dizi için aşamalar şu şekilde olacaktır:
+
+İlk eleman (22) zaten sıralı olduğu için dizi sıralanmış durumdadır.
+İkinci eleman (27) bir önceki elemandan büyüktür, bu yüzden dizi sıralı durumdadır.
+Üçüncü eleman (16) bir önceki elemanlardan küçüktür, bu yüzden dizi şu şekilde sıralanır: [16, 22, 27]
+Dördüncü eleman (2) bir önceki elemanlardan daha küçüktür, bu yüzden dizi şu şekilde sıralanır: [2, 16, 22, 27]
+Beşinci eleman (18) bir önceki elemanlardan büyüktür, ancak ikinci elemandan küçüktür, bu yüzden dizi şu şekilde sıralanır: [2, 16, 18, 22, 27]
+Altıncı eleman (6) bir önceki elemanlardan daha küçüktür, bu yüzden dizi şu şekilde sıralanır: [2, 6, 16, 18, 22, 27]
+Insertion sort'un zaman karmaşıklığı, dizinin büyüklüğüne göre değişir. En iyi senaryoda, dizinin zaten sıralı olduğu durumda, zaman karmaşıklığı O(n) olacaktır. Orta senaryoda, dizinin elemanları rastgele yerleştirilmişse, zaman karmaşıklığı O(n^2) olacaktır. En kötü senaryoda ise, dizinin elemanları ters sırada yerleştirilmişse, zaman karmaşıklığı O(n^2) olacaktır.
+
+Verilen dizi için, 18 sayısı ortada yer almaktadır ve dizinin elemanları rastgele yerleştirilmiştir. Bu nedenle, 18 sayısı "average case" senaryosuna girer ve zaman karmaşıklığı O(n^2) olacaktır.
