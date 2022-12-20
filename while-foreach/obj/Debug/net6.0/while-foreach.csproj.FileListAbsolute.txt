@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\while-foreach\bin\Debug\net6.0\while-foreach.exe
+Y:\c#\pratikler\console-programlama\while-foreach\bin\Debug\net6.0\while-foreach.deps.json
+Y:\c#\pratikler\console-programlama\while-foreach\bin\Debug\net6.0\while-foreach.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\while-foreach\bin\Debug\net6.0\while-foreach.dll
+Y:\c#\pratikler\console-programlama\while-foreach\bin\Debug\net6.0\while-foreach.pdb
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.dll
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\refint\while-foreach.dll
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.pdb
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\while-foreach.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\while-foreach\obj\Debug\net6.0\ref\while-foreach.dll
