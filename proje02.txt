@@ -1,0 +1,8 @@
+Merge sort, diziyi ikiye bölerek her iki parçayı ayrı ayrı sıralar, daha sonra bu iki parçayı birleştirir. Bu işlemi tekrarlayarak dizi sıralanır. Örneğin, verilen dizi için aşamalar şu şekilde olacaktır:
+
+İlk adımda, dizi ikiye bölünür: [16, 21] ve [11, 8, 12, 22]
+İkinci adımda, her iki parça ayrı ayrı sıralanır: [16, 21] ve [8, 11, 12, 22]
+Üçüncü adımda, her iki parça birleştirilerek dizi sıralanır: [8, 11, 12, 16, 21, 22]
+Merge sort'un zaman karmaşıklığı, dizinin büyüklüğüne göre değişir. Dizinin büyüklüğü 2'ye bölündükçe, zaman karmaşıklığı düşecektir. Bu nedenle, en iyi senaryoda, dizinin büyüklüğü 2'ye tam bölünebilecek kadar küçük olduğunda, zaman karmaşıklığı O(n) olacaktır. Orta ve en kötü senaryolarda ise, dizinin büyüklüğü 2'ye tam bölünemeyebilecek kadar büyük olduğunda, zaman karmaşıklığı O(n*log(n)) olacaktır.
+
+Verilen dizi için, zaman karmaşıklığı O(n*log(n)) olacaktır.
