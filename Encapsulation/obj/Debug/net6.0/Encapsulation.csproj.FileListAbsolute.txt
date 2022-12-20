@@ -1,0 +1,5 @@
+Y:\c#\pratikler\console-programlama\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache

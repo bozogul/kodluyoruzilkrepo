@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\enum\bin\Debug\net6.0\enum.exe
+Y:\c#\pratikler\console-programlama\enum\bin\Debug\net6.0\enum.deps.json
+Y:\c#\pratikler\console-programlama\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\enum\bin\Debug\net6.0\enum.dll
+Y:\c#\pratikler\console-programlama\enum\bin\Debug\net6.0\enum.pdb
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.dll
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\refint\enum.dll
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.pdb
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\enum\obj\Debug\net6.0\ref\enum.dll
