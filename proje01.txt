@@ -28,3 +28,11 @@ Altıncı eleman (6) bir önceki elemanlardan daha küçüktür, bu yüzden dizi
 Insertion sort'un zaman karmaşıklığı, dizinin büyüklüğüne göre değişir. En iyi senaryoda, dizinin zaten sıralı olduğu durumda, zaman karmaşıklığı O(n) olacaktır. Orta senaryoda, dizinin elemanları rastgele yerleştirilmişse, zaman karmaşıklığı O(n^2) olacaktır. En kötü senaryoda ise, dizinin elemanları ters sırada yerleştirilmişse, zaman karmaşıklığı O(n^2) olacaktır.
 
 Verilen dizi için, 18 sayısı ortada yer almaktadır ve dizinin elemanları rastgele yerleştirilmiştir. Bu nedenle, 18 sayısı "average case" senaryosuna girer ve zaman karmaşıklığı O(n^2) olacaktır.
+
+
+Selection sort, bir dizi içinde en küçük elemanı bulup bunu dizinin en başına getirir. Bu işlemi tekrarlayarak dizi sıralanır. Örneğin, verilen dizi için aşamalar şu şekilde olacaktır:
+
+İlk adımda, dizinin en küçük elemanı olan 2 sayısı dizinin en başına getirilir ve dizi şu şekilde sıralanır: [2,3,5,8,7,9,4,15,6]
+İkinci adımda, dizinin en küçük elemanı olan 3 sayısı dizinin en başına getirilir ve dizi şu şekilde sıralanır: [2,3,5,8,7,9,4,15,6]
+Üçüncü adımda, dizinin en küçük elemanı olan 4 sayısı dizinin en başına getirilir ve dizi şu şekilde sıralanır: [2,3,4,8,7,9,5,15,6]
+Dördüncü adımda, dizinin en küçük elemanı olan 5 sayısı dizinin en başına getirilir ve dizi şu şekilde sıralanır: [2,3,4,5,7,9,8,15,6]
