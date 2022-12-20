@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\metotlar\bin\Debug\net6.0\metotlar.exe
+Y:\c#\pratikler\console-programlama\metotlar\bin\Debug\net6.0\metotlar.deps.json
+Y:\c#\pratikler\console-programlama\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\metotlar\bin\Debug\net6.0\metotlar.dll
+Y:\c#\pratikler\console-programlama\metotlar\bin\Debug\net6.0\metotlar.pdb
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.dll
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\refint\metotlar.dll
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.pdb
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\metotlar\obj\Debug\net6.0\ref\metotlar.dll

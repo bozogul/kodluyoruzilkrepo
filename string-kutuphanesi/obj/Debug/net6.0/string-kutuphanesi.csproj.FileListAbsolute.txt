@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\bin\Debug\net6.0\string-kutuphanesi.exe
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\bin\Debug\net6.0\string-kutuphanesi.deps.json
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\bin\Debug\net6.0\string-kutuphanesi.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\bin\Debug\net6.0\string-kutuphanesi.dll
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\bin\Debug\net6.0\string-kutuphanesi.pdb
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.dll
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\refint\string-kutuphanesi.dll
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.pdb
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\string-kutuphanesi.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\string-kutuphanesi\obj\Debug\net6.0\ref\string-kutuphanesi.dll

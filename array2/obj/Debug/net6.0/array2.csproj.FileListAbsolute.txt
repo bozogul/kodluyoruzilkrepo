@@ -1,0 +1,15 @@
+Y:\c#\pratikler\console-programlama\array2\bin\Debug\net6.0\array2.exe
+Y:\c#\pratikler\console-programlama\array2\bin\Debug\net6.0\array2.deps.json
+Y:\c#\pratikler\console-programlama\array2\bin\Debug\net6.0\array2.runtimeconfig.json
+Y:\c#\pratikler\console-programlama\array2\bin\Debug\net6.0\array2.dll
+Y:\c#\pratikler\console-programlama\array2\bin\Debug\net6.0\array2.pdb
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.csproj.AssemblyReference.cache
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.AssemblyInfoInputs.cache
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.AssemblyInfo.cs
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.csproj.CoreCompileInputs.cache
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.dll
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\refint\array2.dll
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.pdb
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\array2.genruntimeconfig.cache
+Y:\c#\pratikler\console-programlama\array2\obj\Debug\net6.0\ref\array2.dll
